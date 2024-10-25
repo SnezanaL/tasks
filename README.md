@@ -17,9 +17,9 @@ To install and run the project locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/SnezanaL/tasks.git
-   ```
+```bash
+git clone https://github.com/SnezanaL/tasks.git
+```
 
 2. Navigate to the project directory:
 
@@ -40,9 +40,10 @@ To install and run the project locally, follow these steps:
 ```
 
 5. Open the app in your browser:
-   ```
-   http://localhost:4200
-   ```
+
+```bash
+http://localhost:4200
+```
 
 ## Usage
 
